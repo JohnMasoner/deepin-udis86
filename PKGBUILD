@@ -1,5 +1,3 @@
-# Maintainer: wszqkzqk <wszqkzqk@gmail.com>
-# Maintainer: luosoy <249799588@qq.com>
 # Maintainer: Mason <masoner6429@gmail.com>
 
 pkgname=deepin-udis86
